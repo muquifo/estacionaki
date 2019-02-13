@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner
 
 @RunWith(SpringRunner::class)
 @SpringBootTest
-class ConfigserverApplicationTests {
+class EstacionakiConfigserverApplicationTests {
 
 	@Test
 	fun contextLoads() {

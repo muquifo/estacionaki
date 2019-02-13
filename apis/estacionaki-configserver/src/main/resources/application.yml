@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/muquifo/estacionaki/config
+          uri: https://github.com/muquifo/estacionaki-config
